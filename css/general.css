@@ -77,8 +77,8 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #777;
-  /* background-image: url("../img/Uni.jpeg");
-  background-size: 155rem; */
+   background-image: url("../img/Uni.jpeg");
+  background-size: 155rem; 
 }
 /***********************************/
 /* GENERAL REUSABLE COMPONENTS */
